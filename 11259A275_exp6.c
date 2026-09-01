@@ -61,7 +61,4 @@ int main() {
  } while (choice != 4);
  return 0;
 }
-2. Dequeue
-3. Display
-4. Exit
-Enter your choi
+
